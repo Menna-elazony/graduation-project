@@ -31,5 +31,16 @@ You can watch the demo video of the project here:
 
 ---
 
+## License and Usage Warning
+
+All videos, images, and content in this repository are for **personal and educational viewing only**.  
+You are **NOT allowed** to share, redistribute, repost, or use any part of this project for commercial purposes.  
+Any unauthorized use or distribution is strictly prohibited.  
+
+For permissions beyond this license, please contact:  
+mennaallahelazony@gmail.com
+
+---
+
 **Author:** Menna Allah Abdelatef Mohamed  
 **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/menna-allah-abdelatef-mohamed-366986238/)
